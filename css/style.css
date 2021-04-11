@@ -12,12 +12,13 @@ p {
   color:  #000;
 }
 .lw { 
-  font-size: 70px;
+  font-size: 4.5vw;
    line-height:1.1;
 }
 
 img {
 padding-top:40px;
+width:10vw !important;
 }
 
 .full-wh { 
@@ -25,10 +26,12 @@ padding-top:40px;
 
 a {
 text-decoration:none;
+color: #58cced;
 }
 
 a:hover {
 text-decoration:underline;
+text-underline-offset: 3px;
 }
 
 .bg-animation {
