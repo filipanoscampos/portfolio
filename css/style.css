@@ -2,28 +2,33 @@ body{
     height:  100vh;
    margin: auto;
   width: 70vw;
-  background-color: #000;
+  background-color: #fff;
   font-family: 'General Sans', sans-serif;
   font-weight: 600; 
   letter-spacing: 1px;
 }
 
 p {
-  color:  #f2f2f2;
+  color:  #000;
 }
 .lw { 
 
   font-size: 60px; 
 }
 
+img {
+padding:20px;
+}
+
 .full-wh { 
-
-  position: absolute;
-
 }
 
 a {
+text-decoration:none;
+}
 
+a:hover {
+text-decoration:underline;
 }
 
 .bg-animation {
