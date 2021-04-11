@@ -36,18 +36,8 @@ text-decoration:underline;
   left: 0;  
   position: fixed;
   top: 0;
-  width: 100%;
 }
 
-
-.bg-animation{
- height: 100%;
- left: 0;
- position: fixed;
- top: 0;
- width: 100%;
-  
-}
 #stars {
   width: 1px;
   height: 1px;
