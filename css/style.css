@@ -19,6 +19,7 @@ p {
 img {
 padding-top:40px;
 width:10vw !important;
+min-width: 50px;
 }
 
 .full-wh { 
