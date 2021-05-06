@@ -187,8 +187,6 @@ a{
   .item_card .img-top {
       display: inline;
       position: absolute;
-      top: 0;
-      left: 0;
       z-index: 99;
       background-color: rgba(0, 0, 0, 0);
   }
