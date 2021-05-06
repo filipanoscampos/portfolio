@@ -189,6 +189,10 @@ a{
     height: 50vh;
     padding: 15vw;
   }
+    
+    #kintop, #evoraticket, #transport, #generations, #platform {
+    padding: 30px;
+}
 
   #about{
     padding-right:60px;
@@ -203,14 +207,15 @@ a{
   .info{
     position: relative;
     line-height: 1;
-    font-size: 20px;
-    padding: 30px;
+    font-size: 16px;
+    padding: 20px;
     color: #000;
     background-color: #A3F6EC;
 
   }
 
   .item_card .img-top {
+      top:0px;
       display: inline;
       position: absolute;
       z-index: 99;
