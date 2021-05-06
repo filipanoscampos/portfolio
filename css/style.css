@@ -103,7 +103,8 @@ section {
 
 nav {
     position: fixed;
-    margin-top:30vh;
+
+    z-index: 100;
 }
 nav a {
     display: block;
@@ -186,6 +187,10 @@ a{
       padding: 60px 10px 10px 100px;
       box-sizing:border-box;
   }
+    
+    section{
+    padding-left: 50px;
+    }
 
 
   #home{
