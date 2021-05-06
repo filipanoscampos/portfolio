@@ -7,6 +7,7 @@ html, body {
     font-family: 'General Sans', sans-serif;
     font-weight: 600;
     letter-spacing: 1px;
+    overflow:auto;
 }
 section {
     display: block;
