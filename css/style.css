@@ -132,18 +132,18 @@ background: #000;
 }
 .text_big{
 margin-top: -10vh;
-  font-size: 4vw;
+  font-size: 3vw;
 }
 
 .threehundred{
   font-weight: 300;
-  font-size: 3vw;
+  font-size: 2vw;
 }
 
 .info{
   position: relative;
   line-height: 1;
-   font-size: 30px;
+   font-size: 26px;
 
 }
 
@@ -226,6 +226,25 @@ a{
   }
 
 }
+
+@media screen and (max-width: 800px) {
+    
+    #kintop, #evoraticket, #transport, #generations, #platform{
+  padding: 40px;
+}
+
+#kintop img, #transport img, #evy img, #janela img{
+  width: 100%;
+}
+
+#janela img{
+ width: 70%;
+}
+
+ #evoraticket img, #generations img{
+  width: 100%;
+}
+    }
 #stars {
   width: 1px;
   height: 1px;
