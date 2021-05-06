@@ -26,7 +26,7 @@ section {
 
 #home {
     background: #fff;
-    font-size: 30px;
+    font-size: 20px;
     height:30%;
     width:100%;
 
@@ -50,6 +50,32 @@ section {
   background: #000;
   color:#fff;
 }
+
+#kintop, #evoraticket, #transport, #generations, #platform{
+  padding: 40px;
+}
+
+#kintop img, #transport img, #evy img, #janela img{
+  width: 65%;
+}
+
+#janela img{
+ width: 40%;
+}
+
+ #evoraticket img, #generations img{
+  width: 75%;
+}
+
+.text_big{
+
+    margin-top: -10vh;
+    font-size: 3vw;
+  min-width: 300px;
+  width: 60%;
+
+}
+
 
 .work{
 
@@ -117,7 +143,7 @@ margin-top: -10vh;
 .info{
   position: relative;
   line-height: 1;
-  font-size: 40px;
+   font-size: 30px;
 
 }
 
@@ -133,7 +159,7 @@ margin-top: -10vh;
     }
 
     .item_card .img-top {
-      width: 80%;
+      width: 70%;
         display: none;
         position: absolute;
         top: 10px;
