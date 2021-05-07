@@ -195,7 +195,6 @@ a{
 
 
   #home{
-    height: 50vh;
     padding: 15vw;
   }
     
@@ -261,7 +260,7 @@ a{
         .workitem{
     width:100%;
 }
-    }
+}
 #stars {
   width: 1px;
   height: 1px;
