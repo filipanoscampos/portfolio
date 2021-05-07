@@ -186,7 +186,6 @@ a{
 }
 @media screen and (max-width: 1100px) {
   #work {
-      padding: 60px 10px 10px 100px;
       box-sizing:border-box;
   }
     
