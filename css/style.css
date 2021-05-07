@@ -178,6 +178,7 @@ margin-top: -10vh;
     }
 .item_card a{
   color: #A3F6EC;
+  cursor: url('https://raw.githubusercontent.com/filipanoscampos/portfolio/main/cursorbllue.png'), auto;
 }
 
 a{
