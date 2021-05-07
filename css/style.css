@@ -322,14 +322,14 @@ a{
 
 @keyframes updown {
   0% {
-    transform: translateY(-100%);
+    transform: translateY(-60%);
   }
 
   50% {
-    transform: translateY(100%);
+    transform: translateY(60%);
   }
 
   100% {
-    transform: translateY(-100%);
+    transform: translateY(-60%);
   }
 }
